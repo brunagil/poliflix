@@ -4,10 +4,6 @@
       "titulo": "French",
       "link": "https://www.diplomatie.gouv.fr/en/coming-to-france/studying-in-france/learning-french/article/10-good-reasons-for-learning",
       "cor": "#ba181b",
-      "link_extra": {
-        "text": "10 good reasons to learn French",
-        "url": "https://www.diplomatie.gouv.fr/en/coming-to-france/studying-in-france/learning-french/article/10-good-reasons-for-learning"
-      },
       "videos": [
         {
           "titulo": "The place you can learn any language in the world",
@@ -42,10 +38,6 @@
     {
       "titulo": "Spanish",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Learn Spanish with SpanishPod101.com",
-        "url": "https://youtu.be/i5z1lnik7eU"
-      },
       "videos": [
         {
           "titulo": "Dreaming Spanish",
@@ -72,10 +64,6 @@
     {
       "titulo": "German",
       "cor": "#f6aa1c",
-      "link_extra": {
-        "text": "Learn German for free with DW",
-        "url": "https://learngerman.dw.com/en/overview"
-      },
       "videos": [
         {
           "titulo": "Easy German: Learn German From the Streets!",

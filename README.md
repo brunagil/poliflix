@@ -1,25 +1,15 @@
-# Aluraflix
+# Polyflix
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
+Polyflix is built on the "AluraFlix" project. The idea of the project is to share foreign language channels, allowing people to access free content to learn languages
 
-<p align="center">
-  <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
-</p>
-
-> Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
+> Projeto built during [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
 
 
-## Como rodar o projeto?
-
-Após baixar o projeto, acesse ele via seu terminal rode os comandos:
+## How to run the project?
 
 ```sh
 npm install
 npm start
 ```
-
-## History
-Da uma olhada na aba [Releases](https://github.com/imersao-alura/aluraflix/releases) pra acompanhar as alterações feitas no projeto.
-
-## License/Licença do Projeto
+## License
 [MIT License](./LICENSE) © [Alura](http://alura.com.br/)
