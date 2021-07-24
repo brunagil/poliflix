@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "French",
+      "link": "https://www.diplomatie.gouv.fr/en/coming-to-france/studying-in-france/learning-french/article/10-good-reasons-for-learning",
+      "cor": "#ba181b",
+      "link_extra": {
+        "text": "10 good reasons to learn French",
+        "url": "https://www.diplomatie.gouv.fr/en/coming-to-france/studying-in-france/learning-french/article/10-good-reasons-for-learning"
+      },
+      "videos": [
+        {
+          "titulo": "The place you can learn any language in the world",
+          "url": "https://youtu.be/VQRjouwKDlU"
+        },
+        {
+          "titulo": "InnerFrench",
+          "url": "https://youtu.be/B9rVdOLWsak"
+        },
+        {
+          "titulo": "Easy French",
+          "url": "https://youtu.be/uOuzm_APZWM"
+        },
+        {
+          "titulo": "Learn french with Alexa",
+          "url": "https://youtu.be/XiJkQyyOWUg"
+        },
+        {
+          "titulo": "Piece of French",
+          "url": "https://youtu.be/CTMp694_nXk"
+        },
+        {
+          "titulo": "French mornings with Elisa",
+          "url": "https://youtu.be/ljl2r9u2ZH8"
+        },
+        {
+          "titulo": "[PT] Flavia Penereiro",
+          "url": "https://youtu.be/LWNvubHRIkQ"
+        }    
+      ]
+    },
+    {
+      "titulo": "Spanish",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Learn Spanish with SpanishPod101.com",
+        "url": "https://youtu.be/i5z1lnik7eU"
+      },
+      "videos": [
+        {
+          "titulo": "Dreaming Spanish",
+          "url": "https://youtu.be/8EePExhmrnE"
+        },
+        {
+          "titulo": "Raquel Bookish",
+          "url": "https://youtu.be/kexYAo6PckY"
+        },
+        {
+          "titulo": "Fluency TV - Espanhol",
+          "url": "https://youtu.be/LlzhuO8Mg5Q"
+        },
+        {
+          "titulo": "Spanish After Hours",
+          "url": "https://youtu.be/AVlZ_wdQ6vM"
+        }, 
+        {
+          "titulo": "Easy Spanish",
+          "url": "https://youtu.be/DwbAW8G-57A"
+        }
+      ]
+    },
+    {
+      "titulo": "German",
+      "cor": "#f6aa1c",
+      "link_extra": {
+        "text": "Learn German for free with DW",
+        "url": "https://learngerman.dw.com/en/overview"
+      },
+      "videos": [
+        {
+          "titulo": "Easy German: Learn German From the Streets!",
+          "url": "https://youtu.be/kRmHzGoyNls"
+        },
+        {
+          "titulo": "Get Germanized",
+          "url": "https://youtu.be/r9os9Q6t6Xc"
+        },
+        {
+          "titulo": "German with Laura",
+          "url": "https://youtu.be/paDNTjoWExI"
+        },
+        {
+          "titulo": "Learn German",
+          "url": "https://youtu.be/8Fy3KxYK4nk"
+        },
+        {
+          "titulo": "[PT] Alemão Sem Segredo",
+          "url": "https://youtu.be/dva8Z3NHWLE"
+        }
+      ]
+    },
+    {
+      "titulo": "Japanese",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Ruri Ohama",
+          "url": "https://youtu.be/bdK4xBJpox0"
+        },
+        {
+          "titulo": "Learn Japanese",
+          "url": "https://youtu.be/V3ioRPuBcfw"
+        },
+        {
+          "titulo": "JapanSocietyNYC",
+          "url": "https://youtu.be/rGrBHiuPlT0"
+        },
+        {
+          "titulo": "Easy Languages",
+          "url": "https://youtu.be/qzzweIQoIOU"
+        },
+        {
+          "titulo": "Reina Scully",
+          "url": "https://youtu.be/lSPOMKW8ivs"
+        }
+      ]
+    },
+    {
+      "titulo": "Russian",
+      "cor": "#061185",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Easy Languages",
+          "url": "https://youtu.be/klj0cz4WHSg"
+        },
+        {
+          "titulo": "Be Fluent in Russian",
+          "url": "https://youtu.be/zpSrXLcjQdU"
+        },
+        {
+          "titulo": "Steve Kaufmann - lingosteve",
+          "url": "https://youtu.be/3vAKzpbtNGk"
+        },
+        {
+          "titulo": "Boost Your Russian",
+          "url": "https://youtu.be/KSD0Zuyju4E"
+        },
+        {
+          "titulo": "Learn Russian with RussianPod101.com",
+          "url": "https://youtu.be/clNb2dy1ZEI"
+        }
+      ]
+    },
+    {
+      "titulo": "How to learn better?",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Como Aprender um Idioma: Absorção",
+          "url": "https://youtu.be/J_EQDtpYSNM"
+        },
+        {
+          "titulo": "Como aprender: Praticamente qualquer coisa",
+          "url": "https://youtu.be/Z2N5a7XZWg8"
+        },
+        {
+          "titulo": "Learning how to learn | Barbara Oakley",
+          "url": "https://youtu.be/O96fE1E-rf8"
+        },
+        {
+          "titulo": "As primeiras 20 horas - Como aprender qualquer coisa",
+          "url": "https://youtu.be/5MgBikgcWnY"
+        },
+        {
+          "titulo": "The Fastest Way to Learn a New Language",
+          "url": "https://youtu.be/95NgtNgmnWA"
+        }
+      ]
+    }
+  ]
+}

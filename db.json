@@ -1,0 +1,21 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "mock - category 1",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    }
+   ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "mock - category 2",
+      "url": ""
+    }
+  ]
+}
